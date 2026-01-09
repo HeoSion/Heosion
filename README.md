@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/>
 </a>
   <br />
-<a href="mailto:tldhs123e@gmail.com">
-  <img src="https://img.shields.io/badge/tldhs123e@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&to=tldhs123e@gmail.com">
+  <img src="https://img.shields.io/badge/tldhs123e@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
 
