@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" /> 
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
 </div>
 
 <br />
@@ -23,8 +24,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/zustand-orange?style=for-the-badge&logo=zustand&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Tanstack Query-FF4154?style=for-the-badge&logo=TanstackQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/zustand-orange?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/astro-000000.svg?style=for-the-badge&logo=astro&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/mdx-000000.svg?style=for-the-badge&logo=mdx&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000" />
 </div>
 
 <br />
