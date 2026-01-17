@@ -9,10 +9,12 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<br />
+  <br />
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
 </div>
@@ -23,13 +25,13 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/zustand-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logoColor=white" />
   <br />
-  <!-- <img src="https://img.shields.io/badge/astro-4C1D95.svg?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/astro-4C1D95.svg?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/mdx-1F2937.svg?style=for-the-badge&logo=mdx&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-0B5ED7.svg?style=for-the-badge&logo=docker&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/docker-0B5ED7.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <br />
