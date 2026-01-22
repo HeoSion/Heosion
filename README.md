@@ -1,7 +1,7 @@
 <!-- 타이틀 부분 -->
 <div align="center">
     <img
-    src="https://github.com/user-attachments/assets/006c47c8-b7ff-4e58-b6da-6781f9ee24f4"
+    src="https://github.com/user-attachments/assets/e95cbf72-84a1-41ca-93e5-54db20228209"
     alt="SHAWN GitHub typing animation"
     width="800"
   />
