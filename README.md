@@ -1,6 +1,11 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&desc=It's+Shawn+Github😊&fontSize=50" />
+    <img
+    src="https://github.com/user-attachments/assets/ca522119-8937-48fe-8605-026691ebcfef"
+    alt="SHAWN GitHub typing animation"
+    width="800"
+  />
+<!-- <img src="https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&desc=It's+Shawn+Github😊&fontSize=50" /> -->
 </div>
 
 <!-- 기술 부분 -->
