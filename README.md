@@ -8,6 +8,14 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&desc=It's+Shawn+Github😊&fontSize=50" /> -->
 </div>
 
+<!-- 블로그 부분 -->
+<h3 align="center">😎 My Blog 😎</h3>
+<div align="center">
+<a href="https://sion-log-zeta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/sion--log-0A1AFF.svg?style=for-the-badge" />
+</a>
+</div>
+
 <!-- 기술 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -62,13 +70,6 @@
   <br />
 <a href="https://mail.google.com/mail/?view=cm&to=tldhs123e@gmail.com">
   <img src="https://img.shields.io/badge/tldhs123e@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
-
-<h3 align="center">😎 MyBlog 😎</h3>
-<div align="center">
-<a href="https://sion-log-zeta.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/sion--log-0A1AFF.svg?style=for-the-badge" />
 </a>
 </div>
 
