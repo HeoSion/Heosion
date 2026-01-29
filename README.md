@@ -11,7 +11,7 @@
 <!-- 블로그 부분 -->
 <h3 align="center">😎 My Blog 😎</h3>
 <div align="center">
-<a href="https://sion-log-zeta.vercel.app/](https://sion-log-fawn.vercel.app" target="_blank">
+<a href="https://sion-log-fawn.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/sion--log-0A1AFF.svg?style=for-the-badge" />
 </a>
 </div>
